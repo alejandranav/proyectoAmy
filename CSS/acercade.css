@@ -1,0 +1,16 @@
+*{font-family:cursive ;color: blueviolet;} 
+.card{background-color: chartreuse;}/*un selector de tipo clase se manda a llamar con un punto seguido del nombre que le dimos*/
+h2{font-family: 'Times New Roman', Times, serif; color: seagreen;}
+/*section*/
+section{width: 70%; background-color: rgb(237, 100, 166); float: left;
+margin: 10px;}
+
+/*parte del article*/
+article{margin: 0.5em 3em; padding: 0.5em 2em; background-color: crimson;
+border: 10px solid black;}
+/*top, right, bottom, left*/
+
+aside{width: 25%; float: left; background-color: lightgoldenrodyellow;}
+
+footer{background-color: khaki; width: auto; height: 60px; text-align: center;
+padding: 45px; margin: 10px; clear: both;} 

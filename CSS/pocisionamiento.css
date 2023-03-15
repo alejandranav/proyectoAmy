@@ -1,0 +1,14 @@
+.box{display: inline-block; width: 100px; height: 100px; background: pink; color: white;}
+
+#two{position: absolute; top: 20px; left: 20px; background: palevioletred;}
+
+#three{position: sticky; bottom: 20px; left: 20px; background: violet;}
+ 
+#four{position: absolute; bottom: 20px; right: 20px; background: burlywood;}
+
+#one{position: static; bottom: 20px; left: 20px; background: rosybrown;}
+
+.Texto1{width: 600px; height: 400px; 
+    overflow: auto;
+    padding-left: 150px;}
+    
