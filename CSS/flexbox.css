@@ -1,0 +1,12 @@
+body{overflow: scroll;}
+
+.container{display: flex; flex-direction: row;
+justify-content: space-around; align-content: flex-start;} /*flex-wrap: ; flex grow , flex shrink, flex basis */
+
+
+
+#one{background-color: crimson; width: 200px; height: 200px; flex-grow: 6;}
+
+#two{background-color: rgb(166, 55, 77); width: 200px; height: 200px; flex-shrink: 0;}
+
+#three{background-color: rgb(152, 129, 133); width: 200px; height: 200px; flex-basis:30%;}
